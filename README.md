@@ -72,8 +72,3 @@ I'm a **Computer Science Student** passionate about building practical applicati
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisonsoedibjo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisonsoedibjo&layout=compact&theme=tokyonight)
